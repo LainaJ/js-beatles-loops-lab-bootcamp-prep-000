@@ -20,7 +20,7 @@ return factsArray;
 }
 
 //3
-function iLoveTheBeatles(number){  
+function iLoveTheBeatles(number){
 var loveBeatlesArr = []
 do {
   loveBeatlesArr.push ("I love the Beatles!");
